@@ -1,6 +1,6 @@
 # Manipulando o DOM
 
-Projeto referente ao curso "Manipulando o DOM"
+Projeto referente ao curso "Manipulando o DOM" Bootcamp Carrefour Web Developer
 
 ## Atividade: Light Mode/Dark Mode
 
